@@ -1,0 +1,11 @@
+.style {
+  background: violet;
+}
+.container,
+.style {
+  font-style: italic;
+}
+.img,
+.style {
+  font-size: 30px;
+}
